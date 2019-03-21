@@ -1,0 +1,2 @@
+module StagicPagesHelper
+end
